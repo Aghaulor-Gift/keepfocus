@@ -88,6 +88,19 @@ Open `index.html` in your preferred web browser.
 * Add testimonials and user reviews
 * Connect buttons to functional pages
 
+## AI Usage
+
+Artificial Intelligence (AI) was used during the planning stage of this project to:
+
+* Generate the productivity app name (**KeepFocus**).
+* Suggest hero section headlines and marketing copy.
+* Brainstorm feature ideas and descriptions.
+* Recommend a color palette and overall design direction.
+* Provide guidance on responsive layout structure.
+
+All HTML and CSS code for the landing page was written and implemented manually by the author.
+
+
 ## Author
 
 [Aghaulor Gift](https://www.linkedin.com/in/gift-aghaulor/)
